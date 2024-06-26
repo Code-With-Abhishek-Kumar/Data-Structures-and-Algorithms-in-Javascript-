@@ -34,7 +34,7 @@ console.log("Q:-add the specified elements to the end of an array")
 console.log( "Ans :- The push() method of Array instances adds the specified elements to the end of an array and returns the new length of the array. :-" + " " + arr.push("Cherry")) // [ 'Apple', 'Banana', 'Cherry' ]
 console.log(arr)
 
-console.log("Q:-removes the specified elements to the first of an array")
+console.log("Q:- removes the specified elements to the first of an array")
 // 
 console.log( "Ans :- The shift() method of Array instances removes the first element from an array and returns that removed element. This method changes the length of the array. :-" + " " + arr.shift()) // [ '', 'Banana', 'Cherry' ]
 console.log(arr)

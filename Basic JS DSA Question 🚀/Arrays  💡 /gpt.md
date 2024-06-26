@@ -1,0 +1,1 @@
+1. write defination in detail what is the use of all array method where we can use use case of give proper syntax with example 
