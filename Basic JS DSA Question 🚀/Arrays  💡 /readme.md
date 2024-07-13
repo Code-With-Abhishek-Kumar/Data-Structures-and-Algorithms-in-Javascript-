@@ -10,6 +10,7 @@
     - [JavaScript reverse  method](#javascript-reverse--method)
     - [JavaScript Array indexOf Method](#javascript-array-indexof-method)
     - [JavaScript Array lastIndexOf Method](#javascript-array-lastindexof-method)
+    - [JavaScript Array filter  Method](#javascript-array-filter--method)
 
 <!-- /TOC -->
 
@@ -239,3 +240,4 @@ console.log(fruits.lastIndexOf('grape')); // Output: -1
 
 
 
+###  JavaScript Array filter()  Method
